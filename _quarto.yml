@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Michael Truong"
+  site-url: https://mdtruong.github.io
   navbar:
     right:
       - blog.qmd
