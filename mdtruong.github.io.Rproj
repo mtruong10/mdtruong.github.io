@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 20a72a31-e49a-434e-8868-3b0107565672
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: mdtruong.github.io
